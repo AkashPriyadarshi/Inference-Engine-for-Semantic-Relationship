@@ -1,0 +1,9 @@
+1
+G(Joe)
+6
+~F(x) | G(x)
+~G(x) | H(x)
+~H(x) | F(x)
+~R(x) | H(x)
+R(Tom)
+G(Joe)

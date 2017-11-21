@@ -1,0 +1,10 @@
+1
+I(Siri)
+7
+~I(x) | S(x)
+I(x)
+~E(x)
+~S(x) | C(x)
+E(x)
+C(x)
+~C(Siri)
