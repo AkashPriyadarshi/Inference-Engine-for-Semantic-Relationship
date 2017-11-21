@@ -1,6 +1,0 @@
-1
-A(Alice)
-3
-A(x) | B(x)
-~A(x) | C(x)
-~C(x) | ~B(x)

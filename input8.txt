@@ -1,8 +1,0 @@
-2
-B(Ada)
-D(Chris)
-4
-~A(x) | B(Ada)
-A(Umbrella)
-C(x,Jill) | D(x)
-~C(x,Jill)
